@@ -41,4 +41,4 @@ Maps, Bar Charts, Line Charts, Pie Charts
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/michaelstern25/Netflix-Analysis/blob/main/Netflix_Dashboard.jpg)
