@@ -1,21 +1,5 @@
 # Netflix-Analysis (Python + Tableau Dashboard)
 
-Netflix-Data-Analysis/
-│
-├── data/
-│   └── netflix1.csv
-│
-├── python_analysis/
-│   └── netflix_analysis.ipynb
-│
-├── tableau_dashboard/
-│   └── netflix_dashboard.twbx
-│
-├── screenshots/
-│   └── dashboard.png
-│
-└── README.md
-
 Project Overview
 
 This project focuses on analyzing Netflix Movies and TV Shows data to uncover meaningful insights using Python for data analysis and Tableau for interactive dashboards.
