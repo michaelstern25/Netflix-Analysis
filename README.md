@@ -38,3 +38,7 @@ This project is designed to showcase data analysis, visualization, and storytell
 Filters & Parameters
 
 Maps, Bar Charts, Line Charts, Pie Charts
+
+## 📊 Dashboard Preview
+
+![Dashboard Preview]()
